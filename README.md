@@ -1,13 +1,13 @@
-#Tic-Tac-Toe Game
+# Tic-Tac-Toe Game
 
 This is a simple implementation of the classic game of Tic-Tac-Toe (also known as Noughts and Crosses) created using the Python tkinter library. It allows two players to take turns and play against each other, with a basic AI component for single-player mode.
 
-##Project Description (What This Application Does)
+## Project Description (What This Application Does)
 This application provides a graphical user interface for playing the game of Tic-Tac-Toe. The game currently supports one mode:
 
 Single-Player Mode: In this mode, you can play against a computer. The computer makes random moves. The game will announce if you win or lose against the computer or if the game ends in a tie.
 
-##Technologies Used
+## Technologies Used
 The project uses the following technologies:
 
 Python: The main programming language used for developing the game logic and UI.
@@ -21,7 +21,7 @@ Two-Player Mode: By using Artificial Intelligence, two computers will be able to
 Game Restrictions: Having a set of rules to make the Tic-Tac-Toe Game harder.
 Improved AI: Creating a more intelligent AI that employs strategies to win or block the opponent.
 
-##How to Play
+## How to Play
 Run the program.
 
 In Single-Player Mode, you play against the computer.
